@@ -3,6 +3,7 @@ How to commit all modifications made in a git repository?
 
 ```sh
 git add -A
+git commit -m "<commit-message>"
 ```
 
 This stage all modifications, included:
