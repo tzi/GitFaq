@@ -13,6 +13,6 @@ Conflicts are marked in a file with clear line breaks:
 
 =======: Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.
 
->>>>>>>: Indicates the end of the lines that had a merge conflict. 
+\>>>>>>>: Indicates the end of the lines that had a merge conflict. 
  
 [source: UCSC Genome Bioinformatics Group](http://genomewiki.ucsc.edu/index.php/Resolving_merge_conflicts_in_Git#How_do_I_find_conflicts_within_the_file_itself.3F)
